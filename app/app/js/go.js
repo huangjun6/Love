@@ -52,7 +52,7 @@
       .type('boy', '<span class="gray">')
       .type(':', '<span class="blue">')
       .type('0', '<span class="blank">')
-      .type("'garyhj'", '<span class="green">')
+      .type("'gary'", '<span class="green">')
       .wait(15)
       .del(6)
       .type("'黄俊'", '<span class="green">')
